@@ -161,7 +161,7 @@ The application provides:
 
 👉 **Streamlit Application**
 
-> https://YOUR_STREAMLIT_LINK
+> [https://YOUR_STREAMLIT_LINK](https://qbit-brain-tumor-segmentation.streamlit.app/)
 
 ---
 
