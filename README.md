@@ -171,7 +171,6 @@ The application provides:
 ---
 
 # 🚀 Live Demo
-# 🚀 Live Demo
 
 <p align="center">
   <a href="https://qbit-brain-tumor-segmentation.streamlit.app">
