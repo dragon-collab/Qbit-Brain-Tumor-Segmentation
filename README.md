@@ -10,13 +10,30 @@
 
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 
-</p>
-# 🧠 Qbit Brain Tumor Segmentation
-
-> AI-powered medical imaging system for automatic brain tumor segmentation from MRI scans using Deep Learning (U-Net).
-
 <p align="center">
   <img src="images/banner.png" width="100%">
+</p>
+
+<h1 align="center">
+🧠 Qbit Brain Tumor Segmentation
+</h1>
+
+<p align="center">
+AI-Powered Medical Imaging using Deep Learning and U-Net
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
+
+<img src="https://img.shields.io/badge/PyTorch-2.2-red?style=for-the-badge&logo=pytorch">
+
+<img src="https://img.shields.io/badge/Streamlit-Deployed-ff4b4b?style=for-the-badge&logo=streamlit">
+
+<img src="https://img.shields.io/badge/U--Net-Medical%20AI-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+
 </p>
 
 ---
